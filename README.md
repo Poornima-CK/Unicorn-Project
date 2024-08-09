@@ -39,8 +39,8 @@ The project consists of:
       stagnant between 2016 and 2017, and even went down in 2018. However, the number of ordered
       items increased linearly in the same period. Some Machine data can be an outlier.
 
-      ● High discounts mostly starting from 50% to 80% on the products of Furniture, Office Supplies leads to negative 
-      profit. Data shows discount and profit inversely proportional in 2018.
+      ● High discounts mostly starting from 50% to 80% on the products of Furniture, Office Supplies leads to 
+      negative profit. Data shows discount and profit inversely proportional in 2018.
 
 **Assumptions:**
 
